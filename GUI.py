@@ -1,5 +1,5 @@
 from Tkinter import *
-from code1 import gaborKernel, refFeats, cfeats, match, topprint
+from util import gaborKernel, refFeats, cfeats, match, topprint
 import numpy as np
 from genlist import find_img, find_img1
 from PIL import ImageTk
